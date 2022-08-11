@@ -56,7 +56,7 @@
                     content="我的Github"
                     placement="bottom"
                 >
-                  <a href="https://github.com/Cat1cry" target="_blank"
+                  <a href="https://github.com" target="_blank"
                   ><img src="../assets/img/github.png" alt=""
                   /></a>
                 </el-tooltip>
@@ -69,7 +69,7 @@
                     placement="bottom"
                 >
                   <a
-                      href="https://www.zhihu.com/people/liu-qing-shu-65"
+                      href="https://www.zhihu.com"
                       target="_blank"
                   ><img src="../assets/img/zhihu.png" alt=""
                   /></a>
@@ -82,7 +82,7 @@
                     content="我的B站"
                     placement="bottom"
                 >
-                  <a href="https://space.bilibili.com/12153562" target="_blank"
+                  <a href="https://space.bilibili.com" target="_blank"
                   ><img src="../assets/img/Bili.png" alt=""
                   /></a>
                 </el-tooltip>
@@ -94,7 +94,7 @@
                     content="我的微博"
                     placement="bottom"
                 >
-                  <a href="https://www.weibo.com/u/5285438322" target="_blank"
+                  <a href="https://www.weibo.com" target="_blank"
                   ><img src="../assets/img/weibo.png" alt=""
                   /></a>
                 </el-tooltip>
