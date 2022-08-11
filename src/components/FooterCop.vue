@@ -6,8 +6,8 @@
       ©2022 <b>Yogoazure</b>
       <br />
       <div>
-        <a class="beian" href="http://" target="_blank"
-        >渝ICP....备号</a
+        <a class="beian" href="https://beian.miit.gov.cn" target="_blank"
+        >渝ICP备2022009273号-1</a
         >
       </div>
     </el-footer>
